@@ -1,0 +1,9 @@
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\bin\Debug\SQLDataReader.exe.config
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\bin\Debug\SQLDataReader.exe
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\bin\Debug\SQLDataReader.pdb
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.csprojAssemblyReference.cache
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.Form1.resources
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.Properties.Resources.resources
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.csproj.GenerateResource.cache
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.exe
+C:\Users\windows10\OneDrive\שולחן העבודה\Programming\שנה ב\סמסטר ב\And Web API-Full stack- server\Targilim\SQLDataReader\SQLDataReader\obj\Debug\SQLDataReader.pdb
